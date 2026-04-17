@@ -46,7 +46,7 @@ Se utilizó synchronized en el método retirar() para evitar que varios hilos mo
 ## 🖼️ Evidencia
 
 ### Ejecución del programa
-![Consola](img/ejecucion.png)
+![Consola](https://github.com/toxico292008-afk/actividad.2.3/blob/19e38d201ec586dfacec5a870dde2703a206c23b/Captura%20de%20pantalla%202026-04-17%20141820.png)
 
 ### Código en IntelliJ
 ![Código](img/codigo.png)
