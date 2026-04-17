@@ -49,24 +49,24 @@ Se utilizó synchronized en el método retirar() para evitar que varios hilos mo
 ![Consola](https://github.com/toxico292008-afk/actividad.2.3/blob/19e38d201ec586dfacec5a870dde2703a206c23b/Captura%20de%20pantalla%202026-04-17%20141820.png)
 
 ### Código en IntelliJ
-![Código](img/codigo.png)
+![Código](https://github.com/toxico292008-afk/actividad.2.3/blob/fd4b2fadce164b64a2a914b8a54f9d73d0320215/Captura%20de%20pantalla%202026-04-17%20141434.png)
 
 ---
 
-## 🚨 ¿Qué pasa sin synchronized?
+##  ¿Qué pasa sin synchronized?
 
 Sin synchronized, varios hilos pueden acceder al saldo al mismo tiempo, lo que puede generar errores como saldo negativo o resultados incorrectos.
 
 ---
 
-## ✅ Conclusión
+##  Conclusión
 
 La sincronización evita problemas cuando varios hilos usan el mismo recurso.  
 El uso de excepciones permite manejar errores de forma controlada y segura.
 
 ---
 
-## 🧑‍💻 Autor
+##  Autor
+ Juan Jose Rodriguez Gomez 
 
-- Tu nombre
-- Nombre de tu compañero
+Fredy Alejandro Olaya
